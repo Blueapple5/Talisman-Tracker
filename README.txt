@@ -1,0 +1,2 @@
+this is just a simple tool that can aid oneself in organizing talismans for the game, Monster Hunter Rise.
+eventually the functions for removing talismans, and displaying talismans via a selected sorting method (i.e. First skill, 1st slot level, etc) will be added
